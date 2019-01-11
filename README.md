@@ -6,9 +6,9 @@ Checkout my open source addons
 
 2. [ember-currencies-and-format-money](https://ahmetemrekilinc.github.io/ember-currencies-and-format-money-demo/)
 
-3. [ember-mask-input](https://ahmetemrekilinc.github.io/ember-mask-input/)
+3. [ember-mask-input](https://ahmetemrekilinc.github.io/ember-mask-input-demo/)
 
-4. [ember-time-enabled-pikaday](https://ahmetemrekilinc.github.io/ember-time-enabled-pikaday/)
+4. [ember-time-enabled-pikaday](https://ahmetemrekilinc.github.io/ember-time-enabled-pikaday-demo/)
 
 [my stackoverflow account](https://stackoverflow.com/users/7399478/)
 

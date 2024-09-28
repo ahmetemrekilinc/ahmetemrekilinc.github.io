@@ -1,16 +1,14 @@
-# ahmetemrekilinc.github.io
+# Ahmet Emre Kilinc
 
 Checkout my open source addons
 
-1. [ember-world-map](https://ahmetemrekilinc.github.io/ember-world-map-demo/)
+1. [react-curved-text](https://obss.github.io/react-curved-text/)
 
-1. [ember-html-table-to-excel](https://ahmetemrekilinc.github.io/ember-html-table-to-excel-demo/)
+2. [mui-popover-date-range-picker](https://ahmetemrekilinc.github.io/mui-popover-date-range-picker/)
 
-2. [ember-currencies-and-format-money](https://ahmetemrekilinc.github.io/ember-currencies-and-format-money-demo/)
+3. [react-validatable-form](https://obss.github.io/react-validatable-form-demo/)
 
-3. [ember-mask-input](https://ahmetemrekilinc.github.io/ember-mask-input-demo/)
-
-4. [ember-time-enabled-pikaday](https://ahmetemrekilinc.github.io/ember-time-enabled-pikaday-demo/)
+4. [ember-mask-input](https://ahmetemrekilinc.github.io/ember-mask-input-demo/)
 
 [my stackoverflow account](https://stackoverflow.com/users/7399478/)
 
@@ -18,3 +16,4 @@ Checkout my open source addons
 
 [my github account](https://github.com/ahmetemrekilinc/)
 
+[buy me a coffee](https://buymeacoffee.com/ahmetemrekilinc)

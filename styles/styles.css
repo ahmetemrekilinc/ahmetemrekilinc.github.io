@@ -1,0 +1,65 @@
+@font-face {
+  font-family: "Oswald";
+  src: url("fonts/Oswald-VariableFont_wght.ttf") format("truetype"); /* Safari, Android, iOS */
+}
+
+body {
+  font-family: "Oswald", sans-serif;
+  margin: 20px;
+}
+
+.title-div {
+  background-color: #f4f4f4;
+  padding: 10px;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.circular-img-wrapper {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+.circular-img-wrapper > img {
+  width: 300px;
+  height: 300px;
+}
+
+.title-info-div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.title-info-detail-div {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  column-gap: 10px;
+}
+
+@media (max-width: 768px) {
+  body {
+    margin: 5px;
+  }
+
+  .title-div {
+    flex-direction: column;
+  }
+
+  .circular-img-wrapper {
+    width: 200px;
+    height: 200px;
+  }
+
+  .circular-img-wrapper > img {
+    width: 200px;
+    height: 200px;
+  }
+}

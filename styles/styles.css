@@ -8,6 +8,13 @@ body {
   margin: 20px;
 }
 
+h1,
+h2,
+h3 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
 .title-div {
   background-color: #f4f4f4;
   padding: 10px;
@@ -34,14 +41,39 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-content: center;
+  row-gap: 10px;
 }
 
-.title-info-detail-div {
+.info-detail-div-with-icon {
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: center;
   column-gap: 10px;
+}
+
+#open-source {
+  margin-top: 20px;
+}
+
+.open-source-projects {
+  margin-top: 20px;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 10px;
+}
+
+.open-source-projects > a {
+  text-decoration: none;
+  display: flex;
+  flex-direction: column;
+  row-gap: 10px;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  border-radius: 20px;
+  border: 1px solid #f4f4f4;
 }
 
 @media (max-width: 768px) {

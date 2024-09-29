@@ -30,6 +30,25 @@
         "url": "https://ahmetemrekilinc.github.io/"
       }
     </script>
+
+    <!-- Google tag (gtag.js) -->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-3FDFHV5XYG"
+    ></script>
+    <script>
+      if (window.location.hostname !== "localhost") {
+        window.dataLayer = window.dataLayer || [];
+        function gtag() {
+          dataLayer.push(arguments);
+        }
+        gtag("js", new Date());
+
+        gtag("config", "G-3FDFHV5XYG");
+      } else {
+        console.log("Google Analytics is disabled on localhost");
+      }
+    </script>
   </head>
 
   <body>

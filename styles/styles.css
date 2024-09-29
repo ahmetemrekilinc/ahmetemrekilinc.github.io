@@ -10,7 +10,8 @@ body {
 
 h1,
 h2,
-h3 {
+h3,
+p {
   margin-top: 0px;
   margin-bottom: 0px;
 }
@@ -25,10 +26,16 @@ a:hover > h3 {
   transform: scale(1);
 }
 
-.title-div {
+.header-section {
   background-color: #f4f4f4;
   padding: 10px;
   border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  row-gap: 10px;
+}
+
+.title-div {
   row-gap: 10px;
   display: flex;
   flex-direction: row;
@@ -37,15 +44,15 @@ a:hover > h3 {
 }
 
 .circular-img-wrapper {
-  width: 300px;
-  height: 300px;
+  width: 250px;
+  height: 250px;
   border-radius: 50%;
   overflow: hidden;
 }
 
 .circular-img-wrapper > img {
-  width: 300px;
-  height: 300px;
+  width: 250px;
+  height: 250px;
 }
 
 .title-info-div {
